@@ -1,0 +1,5 @@
+- 👋 oi,eu me chamo Lucas 
+- 👀 tenho 15 anos 
+- Meu email é lucas.eduardomormuldo.prado@escola.pr.gov.br
+- Estou aprendendo a programação de linguagem de Java Script
+- Estou no primeiro ano só ensino médio 
